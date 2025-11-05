@@ -58,8 +58,8 @@ The Power BI dashboard includes:
 ```
 📦 nitrrdash
 ├── images
-  ├── dashboard_preview1.png
-  ├── dashboard_preview2.png
+  ├── placement.png
+  ├── senate.png
 ├── powerbi
   ├── dashboard.pbix
 ├── processed data
@@ -84,8 +84,8 @@ The Power BI dashboard includes:
 
 ## 🧪 Sample Visuals
 
-![Dashboard Preview](images/dashboard_preview1.png)
+![Dashboard Preview](images/placement.png)
 
-![Dashboard Preview](images/dashboard_preview2.png)
+![Dashboard Preview](images/senate.png)
 
 ---
