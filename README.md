@@ -2,8 +2,6 @@
   
 **Tools Used:** Power BI, Excel (Data Cleaning), DAX
 
-"Note: Visualization is basic"
-
 ---
 
 ## 📌 Project Overview
